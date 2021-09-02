@@ -1,0 +1,2 @@
+# DevanagariCharacterRecognition
+Handwritten Devanagari Character Recognition 
